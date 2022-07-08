@@ -9,3 +9,5 @@ Hafizh Dwi Prasetyo 50420532
 Muhammad Adam Firmansyah 50420777
 
 Muhammad Ahadiyas Hatumena 50420779
+
+Min SDK Version : API level 21 (Android 5.0)
